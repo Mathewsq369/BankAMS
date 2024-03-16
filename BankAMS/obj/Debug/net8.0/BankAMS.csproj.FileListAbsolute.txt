@@ -1,0 +1,15 @@
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/bin/Debug/net8.0/BankAMS
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/bin/Debug/net8.0/BankAMS.deps.json
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/bin/Debug/net8.0/BankAMS.runtimeconfig.json
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/bin/Debug/net8.0/BankAMS.dll
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/bin/Debug/net8.0/BankAMS.pdb
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.GeneratedMSBuildEditorConfig.editorconfig
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.AssemblyInfoInputs.cache
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.AssemblyInfo.cs
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.csproj.CoreCompileInputs.cache
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.sourcelink.json
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.dll
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/refint/BankAMS.dll
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.pdb
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/BankAMS.genruntimeconfig.cache
+/home/s1gm9/Documents/Tech/coding/projects/git/BankAMS/BankAMS/obj/Debug/net8.0/ref/BankAMS.dll
